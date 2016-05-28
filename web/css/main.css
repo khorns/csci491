@@ -100,7 +100,7 @@ table {
 }
 
 #button a {
-    padding: 25px 60px;
+    padding: 25px 80px;
     color: white;
     background-color: #37a7ed;
     text-decoration: none;
@@ -160,6 +160,10 @@ table {
     
     tr td {
         font-size: 0.7em;
+    }
+    
+    #button a {
+    padding: 25px 20px;
     }
 }
 
