@@ -152,7 +152,15 @@ table {
 
     h3 {
         font-size: 1.7em;
-}
+    }
+    
+    tr th {
+        font-size: 0.7em;
+    }
+    
+    tr td {
+        font-size: 0.7em;
+    }
 }
 
 @media screen and (max-width: 600px) {
