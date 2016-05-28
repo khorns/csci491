@@ -176,4 +176,8 @@ table {
         color : white;
         padding-top: 5px;
     }
+    
+    #button a {
+    padding: 25px 10px;
+    }
 }
